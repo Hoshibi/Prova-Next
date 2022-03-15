@@ -1,0 +1,235 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "logo": "../../assets/logo/ferrari.png",
+            "brand": "Ferrari",
+            "model": "California",
+            "price": 725,
+            "sideImage": "./assets/sideImages/Ferrari_california-closed.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Red",
+                    "imgCar": "./../assets/frontImages/ferrari-california-red.png"
+                },
+                {
+                    "index": 2,
+                    "color": "Yellow",
+                    "imgCar": "./../assets/frontImages/ferrari-california-yellow.png"
+                },
+                {
+                    "index": 3,
+                    "color": "Gray",
+                    "imgCar": "./../assets/frontImages/ferrari-california-gray.png"
+                }
+
+            ] 
+        },
+        {
+            "id": 2,
+            "logo": "../../assets/logo/porsche.png",
+            "brand": "Porsche",
+            "model": "911 TURBO S",
+            "price": 725,
+            "sideImage": "./assets/sideImages/Porsche_911TurboS-White.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "White",
+                    "imgCar": "./../assets/frontImages/porsche-911TurboS-white.png"
+                },
+                {
+                    "index": 2,
+                    "color": "Orange",
+                    "imgCar": "./../assets/frontImages/porsche-911TurboS-orange.png"
+                },
+                {
+                    "index": 3,
+                    "color": "Gray",
+                    "imgCar": "./../assets/frontImages/porsche-911TurboS-gray.png"
+                },
+                {
+                    "index": 4,
+                    "color": "Blue",
+                    "imgCar": "./../assets/frontImages/porsche-911TurboS-blue.png"
+                }
+            ] 
+        },
+        {
+            "id": 3,
+            "logo": "../../assets/logo/porsche.png",
+            "brand": "Porsche",
+            "model": "911 GT3 RS",
+            "price": 825,
+            "sideImage": "./assets/sideImages/Porsche_911TurboS-Golden.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Golden",
+                    "imgCar": "./../assets/frontImages/porsche-911GT3RS-golden.png"
+                },
+                {
+                    "index": 2,
+                    "color": "Orange",
+                    "imgCar": "./../assets/frontImages/porsche-911GT3RS-orange.png"
+                }
+            ] 
+        },
+        {
+            "id": 4,
+            "logo": "../../assets/logo/bentley.png",
+            "brand": "Bentley",
+            "model": "Continental GT",
+            "price": 825,
+            "sideImage": "./assets/sideImages/Bentley_ContinentalGT-Blue.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Blue",
+                    "imgCar": "./../assets/frontImages/bentley-continentalGT-blue.png"
+                }
+            ] 
+        },
+        {
+            "id": 5,
+            "logo": "../../assets/logo/bmw.png",
+            "brand": "BMW",
+            "model": "M1 Competition",
+            "price": 825,
+            "sideImage": "./assets/sideImages/BMW-M1Competition-White.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "White",
+                    "imgCar": "./../assets/frontImages/bmw-M1competition-white.png"
+                }
+            ] 
+        },
+        {
+            "id": 6,
+            "logo": "../../assets/logo/alfa-romeo.png",
+            "brand": "Alfa Romeo",
+            "model": "4C Spider",
+            "price": 825,
+            "sideImage": "./assets/sideImages/AlfaRomeo_4CSpider-Yellow.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Yellow",
+                    "imgCar": "./../assets/frontImages/alfaRomeo-4Cspider-yellow.png"
+                },
+                {
+                    "index": 2,
+                    "color": "Yellow",
+                    "imgCar": "./../assets/frontImages/alfaRomeo-4Cspider-white.png"
+                }
+            ] 
+        },
+        {
+            "id": 7,
+            "logo": "../../assets/logo/mcLaren.png",
+            "brand": "Mclaren",
+            "model": "P1 GTR",
+            "price": 925,
+            "sideImage": "./assets/sideImages/Mclaren_P1GTR-Blue.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Blue",
+                    "imgCar": "./../assets/frontImages/mclaren_P1GTR-blue.png"
+                }
+            ] 
+        },
+        {
+            "id": 8,
+            "logo": "../../assets/logo/lamborghini.png",
+            "brand": "Lamborghini",
+            "model": "Aventador",
+            "price": 925,
+            "sideImage": "./assets/sideImages/Lamborghini_Aventador-Orange.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Orange",
+                    "imgCar": "./../assets/frontImages/lamborghini-aventador-orange.png"
+                }
+            ] 
+        },
+        {
+            "id": 9,
+            "logo": "../../assets/logo/bugatti.png",
+            "brand": "Bugatti",
+            "model": "Veyron Spider",
+            "price": 925,
+            "sideImage": "./assets/sideImages/Bugatti_VeyronSpyder-Blue.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Blue",
+                    "imgCar": "./../assets/frontImages/bugatti_veyronSpyder-blue.png"
+                }
+            ] 
+        },
+        {
+            "id": 10,
+            "logo": "../../assets/logo/chevrolet.png",
+            "brand": "Chevrolet",
+            "model": "Corvett",
+            "price": 925,
+            "sideImage": "./assets/sideImages/Chevrolet_Corvett-White.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "White",
+                    "imgCar": "./../assets/frontImages/chevrolet-corvett-white.png"
+                }
+            ] 
+        },
+        {
+            "id": 11,
+            "logo": "../../assets/logo/ferrari.png",
+            "brand": "Ferrari",
+            "model": "California",
+            "price": 725,
+            "sideImage": "./assets/sideImages/Ferrari_california-open.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Red",
+                    "imgCar": "./../assets/frontImages/ferrari_california-open-red.png"
+                }
+            ] 
+        },
+        {
+            "id": 12,
+            "logo": "../../assets/logo/rolls-royce.png",
+            "brand": "Rolls-Royce",
+            "model": "Wraith",
+            "price": 725,
+            "sideImage": "./assets/sideImages/RollsRoyce_Wraith-Red.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Red",
+                    "imgCar": "./../assets/frontImages/rollsRoyce_wraith-red.png"
+                }
+            ] 
+        },
+        {
+            "id": 13,
+            "logo": "../../assets/logo/mercedes-Benz.png",
+            "brand": "Mercedes-benz",
+            "model": "AMG GTS",
+            "price": 725,
+            "sideImage": "./assets/sideImages/MercedesBenz_AMGGTS-Gray.png",
+            "types": [
+                {
+                    "index": 1,
+                    "color": "Gray",
+                    "imgCar": "./../assets/frontImages/mercedesBenz_AMGGTS-gray.png"
+                }
+            ] 
+        }
+    ]
+}
