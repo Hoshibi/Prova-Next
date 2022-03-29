@@ -2,7 +2,7 @@ import { GetStaticProps } from "next";
 import path from 'path';
 import fs from 'fs/promises';
 
-import { Navbar, CardsContainer, BtnFloating } from "../components/index";
+import { Navbar, CardsContainer, BtnFloating } from "@components/index";
 
 
 interface PropsType {

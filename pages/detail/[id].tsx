@@ -2,7 +2,7 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import path from "path";
 import fs from 'fs/promises';
 
-import { DetailComponent, Navbar } from "../../components/index"
+import { DetailComponent, Navbar } from "@components/index"
 
 export default function Detail({ car }: any) {
   
