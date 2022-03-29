@@ -1,9 +1,5 @@
-// import React, { useEffect} from "react";
-
 import { Card } from "../index";
 import { Container } from "./styles";
-// import { RootStateOrAny, useDispatch, useSelector } from "react-redux";
-// import { getInfoCars } from '@store/cars-actions';
 
 interface PropsType {
     infoCars: {}[]
